@@ -28,6 +28,10 @@ div, h1, h2, h3, h4, h5, span, p {
   font-size: 14rem;
 }
 
+.content {
+ margin-left:5.5rem;
+}
+
 /** BANNER **/
 /** EXPERIMENTAL **/
 .top-banners {
