@@ -109,3 +109,7 @@ div, h1, h2, h3, h4, h5, span, p {
     transform: translate(-100%, 0);
   }
 }
+
+.paragraph {
+ width: 316px;
+}
