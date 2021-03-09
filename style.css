@@ -9,6 +9,7 @@ div, h1, h2, h3, h4, h5, span, p {
   font-family: Roboto;
 }
 
+
 .footer {
   font-size: 1rem;
   bottom: 0;
@@ -16,6 +17,7 @@ div, h1, h2, h3, h4, h5, span, p {
 .logo-txt {
   font-family: 'Sarina';
   color: #FF007A;
+ font-size: 18rem;
 }
 
 .future-txt {
